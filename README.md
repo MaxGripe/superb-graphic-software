@@ -1,15 +1,6 @@
-# Awesome Graphic Software
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Graphic Software [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A curated list of awesome graphic software. This list includes powerful tools for graphic design, 3D modeling, digital painting, pixel art, photo editing, video editing, and more.
-
-### Contribution Guidelines
-Contributions are welcome and appreciated! Here are some guidelines to help you get started:
-
-1. Research if the software you're including is actually awesome. Only add software that you can personally recommend.
-2. Add the new software or tool to the appropriate section in the `README.md` file.
-3. Include a brief description explaining why the software is awesome.
-4. Remember! Awesome lists are curations of the best, not everything.
 
 ## Contents
 - [Pixel Art](#pixel-art)
