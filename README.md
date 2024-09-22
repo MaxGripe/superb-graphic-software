@@ -13,7 +13,7 @@ A curated list of awesome graphic software. This list includes powerful tools fo
 - [Other Tools](#other-tools)
 
 ## Pixel Art
-- [Aseprite](https://www.aseprite.org/) - Impossible not to recommend.
+- [Aseprite](https://www.aseprite.org/) - Animated sprite editor and pixel art tool.
 - [mcDRAW](https://mcdraw.xyz/) - Online pixel editor for C64 Multicolor Bitmap Mode.
 
 ## Digital Painting
