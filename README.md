@@ -1,4 +1,4 @@
-# Awesome Graphic Software
+# Superb Graphic Software
 
 This list contains links to various interesting graphic applications. If you think something should be added here, feel free to create a pull request.
 
