@@ -1,3 +1,9 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/MaxGripe/superb-graphic-software)
+![GitHub License](https://img.shields.io/github/license/MaxGripe/superb-graphic-software)
+![GitHub Created At](https://img.shields.io/github/created-at/MaxGripe/superb-graphic-software)
+![GitHub forks](https://img.shields.io/github/forks/MaxGripe/superb-graphic-software)
+![GitHub Repo stars](https://img.shields.io/github/stars/MaxGripe/superb-graphic-software)
+
 # Superb Graphic Software
 
 This list contains links to various interesting graphic applications. If you think something should be added here, feel free to create a pull request.
